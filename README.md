@@ -2,7 +2,7 @@
 
 | **Category**              | **Value**                                 |
 | ------------------------- | ---------------------------------------- |
-| **Contact**               | claudina.avalos@opendeusto.es
+| **Contact**               | @cavalost
 | **Language / Framework**  | Vue v2, Node
 
 ## Requirements
